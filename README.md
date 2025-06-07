@@ -1,4 +1,5 @@
-# Hi there 👋 I'm Pallavi!
+# Hey! I'm Pallavi 👩‍💻 – turning bytes into breakthroughs, one dataset at a time.
+
 
 After years of working across data engineering and machine learning, I’ve come to love turning raw data into meaningful insights and scalable solutions. From building real-time ETL pipelines to deploying predictive models with AutoML, I bring a blend of technical depth and business context to data challenges.
 
@@ -7,10 +8,10 @@ After years of working across data engineering and machine learning, I’ve come
 ---
 
 🎓 **Education**
-- **MS in Business Analytics**, California State University, East Bay (Aug 2023 – May 2025)  
-  Coursework: Deep Learning, Big Data Tech, Data Mining, Warehousing, BI
-- **ME in Big Data & Data Analytics**, Manipal Institute of Higher Education, India  
-  Coursework: ML, DSA, NLP, Probability & Stats
+- **MS in Business Analytics**, California State University, East Bay - Hayward, California (Aug 2023 – May 2025)  
+  Coursework: Deep Learning, Big Data Tech, Data Mining, Warehousing, Business Intelligence
+- **ME in Big Data & Data Analytics**, Manipal Institute of Higher Education - Manipal, India (July 2019 - July 2021)  
+  Coursework: Machine Learning, Data Structures and Algorithms, NLP, Probability & Stats
 
 ---
 
@@ -37,14 +38,14 @@ Predictive Modeling, Text Mining, A/B Testing, Deep Learning
 ---
 
 🏆 **Achievements**
-- 🥇 1st place, CSU Systemwide Business Analytics Competition (2024)
+- 🥇 1st place, [CSU Systemwide Business Analytics Competition 2024](https://www.csus.edu/college/business-administration/centers-programs/announcements.html)
 
 ---
 
 📜 **Certifications**
-- Gen AI Fundamentals  
-- Databricks Certified Data Engineer Associate  
-- Microsoft Data Analyst Associate
+- [Gen AI Fundamentals](https://credentials.databricks.com/bad03bde-a4a6-44f6-af15-ee06a57744de#acc.rAzBG6Vg)
+- [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/dc1d7ff0-a34e-427a-9e69-d76e11f2dd73#acc.9NM3e8pT)  
+- [Databricks Data Analyst Associate](https://credentials.databricks.com/7e51594d-f4fb-4ccf-92b8-69c02e95a1f9#acc.ysNLHAkh)
 
 ---
 
