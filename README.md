@@ -3,7 +3,7 @@
 
 After years of working across data engineering and machine learning, I’ve come to love turning raw data into meaningful insights and scalable solutions. From building real-time ETL pipelines to deploying predictive models with AutoML, I bring a blend of technical depth and business context to data challenges.
 
-🔍 **Current Focus**: Business Analytics graduate student at California State University, East Bay — digging into deep learning, text mining, and big data tech to amplify my skills!
+🔍 **Current Focus**: Business Analytics graduate from California State University, East Bay — skilled in deep learning, text mining, and big data tech, now applying these in real-world projects.
 
 ---
 
