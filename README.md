@@ -1,4 +1,4 @@
-# Hey! I'm Pallavi 👩‍💻 – on a mission to make data meaningful.
+# Hey! I'm Pallavi 👩‍💻
 
 
 After years of working across data engineering and machine learning, I’ve come to love turning raw data into meaningful insights and scalable solutions. From building real-time ETL pipelines to deploying predictive models with AutoML, I bring a blend of technical depth and business context to data challenges.
