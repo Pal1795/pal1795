@@ -30,7 +30,6 @@ Tableau, Power BI, Excel (Advanced), Matplotlib, Word Clouds
 Predictive Modeling, Text Mining, A/B Testing, Deep Learning
 
 ---
----
 
 🏆 **Achievements**
 - 🥇 1st place, [CSU Systemwide Business Analytics Competition 2024](https://www.csus.edu/college/business-administration/centers-programs/announcements.html)
