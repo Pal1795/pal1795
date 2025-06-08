@@ -8,10 +8,10 @@ After years of working across data engineering and machine learning, I’ve come
 ---
 
 🎓 **Education**
-- **MS in Business Analytics** - *GPA - 3.7/4.0*
+- **MS in Business Analytics** - **GPA - 3.7/4.0**  
   California State University, East Bay - Hayward, California (Aug 2023 – May 2025)  
   Coursework: Data Analytics, Deep Learning, Big Data Technologies, Data Warehousing & BI, Data & Text Mining.
-- **ME in Big Data & Data Analytics** - *GPA - 8.5/10.0*
+- **ME in Big Data & Data Analytics** - **GPA - 8.5/10.0**  
   Manipal Institute of Higher Education - Manipal, India (July 2019 - July 2021)  
   Coursework: Machine Learning, Data Structures and Algorithms, Probability and Statistics, Natural Language Processing.
 ---
