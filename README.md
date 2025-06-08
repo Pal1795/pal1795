@@ -53,14 +53,8 @@ Predictive Modeling, Text Mining, A/B Testing, Deep Learning
 
 📬 **Let’s Connect**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pallavi-gowdar-nagaraj">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:pallavigowdar17@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallavi-gowdar-nagaraj)  
+[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:pallavigowdar17@gmail.com)
 
 ---
 
