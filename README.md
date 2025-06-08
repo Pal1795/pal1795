@@ -24,17 +24,12 @@ Spark, Delta Lake, Airflow, Hive, Pig, Databricks, ETL Pipelines (AWS, Azure, GC
 Python, SQL, R | Pandas, NumPy, Scikit-learn, TensorFlow, Keras, NLTK
 
 **BI & Visualization**:  
-Tableau, Power BI, Excel (Advanced), Matplotlib, word clouds
+Tableau, Power BI, Excel (Advanced), Matplotlib, Word Clouds
 
 **ML & Analytics**:  
 Predictive Modeling, Text Mining, A/B Testing, Deep Learning
 
 ---
-
-📊 **Recent Projects**
-- **Job Market Analysis**: NLP + Scikit-learn models to extract salary trends, role clusters, and demand hotspots from scraped job postings.
-- **Flight Delay Analysis**: End-to-end data pipeline with AWS Redshift + Tableau to uncover key delay drivers in airline performance.
-
 ---
 
 🏆 **Achievements**
