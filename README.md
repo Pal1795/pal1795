@@ -38,6 +38,7 @@ Predictive Modeling, Text Mining, A/B Testing, Deep Learning
 ---
 
 📜 **Certifications**
+- [Tableau Desktop Specialist](https://www.credly.com/badges/ea0635cd-8971-4653-8067-e8f16ce15e2b)
 - [Gen AI Fundamentals](https://credentials.databricks.com/bad03bde-a4a6-44f6-af15-ee06a57744de#acc.rAzBG6Vg)
 - [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/dc1d7ff0-a34e-427a-9e69-d76e11f2dd73#acc.9NM3e8pT)  
 - [Databricks Data Analyst Associate](https://credentials.databricks.com/7e51594d-f4fb-4ccf-92b8-69c02e95a1f9#acc.ysNLHAkh)
