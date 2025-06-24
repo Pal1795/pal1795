@@ -1,7 +1,7 @@
 # Hey! I'm Pallavi 👩‍💻
 
 
-After years of working across data engineering and machine learning, I’ve come to love turning raw data into meaningful insights and scalable solutions. From building real-time ETL pipelines to deploying predictive models with AutoML, I bring a blend of technical depth and business context to data challenges.
+Over the past few years, I’ve worked on projects across Data engineering and Machine Learning, where I’ve developed a strong interest in turning raw data into scalable, insight-driven solutions. From building real-time ETL pipelines to deploying predictive models, I enjoy combining technical skills with business understanding to solve data challenges end-to-end.
 
 🔍 **Current Focus**: Business Analytics graduate from California State University, East Bay — leveraging skills in deep learning, text mining, and big data technologies to drive insights and build scalable solutions in real-world data projects. Actively seeking opportunities where I can blend data engineering and analytics to solve impactful business problems.
 
