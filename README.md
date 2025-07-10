@@ -33,6 +33,7 @@ Predictive Modeling, Text Mining, A/B Testing, Deep Learning
 **Cloud & AWS services**:  
 AWS - S3, Redshift, EMR, DynamoDB, Glue data catalog, IAM
 Azure - Blob Storage
+
 ---
 
 🏆 **Achievements**
